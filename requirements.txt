@@ -3,3 +3,4 @@ luckydonald-utils
 pynput
 # Pillow==5.0.0
 weakreflist
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
